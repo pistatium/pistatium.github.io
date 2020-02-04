@@ -23,12 +23,10 @@ JSON をよしなに表示するやつ
 パスワード用の乱数を生成するジェネレーター
 
 ## Author
-__ kimihiro-n__
+__kimihiro-n__
+
 * GitHub: https://github.com/pistatium
 * Blog: https://kimihiro-n.appspot.com
-
-
-<script data-ad-client="ca-pub-2359565431337443" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ---
 &copy; 2020 pistatium.
