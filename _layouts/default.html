@@ -23,16 +23,13 @@
       <a href="https://twitter.com/kimihiro_n" class="button icon-twitter">Twitter: @kimihiro_n</a>
         <a href="https://github.com/pistatium" class="button icon-github">GitHub</a>
     </div>
-    
 </nav>
-<div class="flex">
+<div>
         {{ content }}
 </div>
 
-<footer>
-    {% if site.github.is_project_page %}
-    <p>&copy; 2020 <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
+<footer style="font-size:11px; color: #ccc;">
+    &copy; 2020 <a href="https://github.com/pistatium">{{ site.github.owner_name }}</a>
 </footer>
 
 <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
