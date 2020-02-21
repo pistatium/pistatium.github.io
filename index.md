@@ -25,5 +25,5 @@ JSON をよしなに表示するやつ。
 ## Author
 __kimihiro-n__
 
-* GitHub: https://github.com/pistatium
-* Blog: https://kimihiro-n.appspot.com
+* GitHub: ![https://github.com/pistatium](https://github.com/pistatium)
+* Blog: ![https://kimihiro-n.appspot.com](https://kimihiro-n.appspot.com)
